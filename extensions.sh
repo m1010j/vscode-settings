@@ -15,3 +15,5 @@ code --install-extension msjsdiag.debugger-for-chrome
 code --install-extension rebornix.Ruby
 code --install-extension vincaslt.highlight-matching-tag
 code --install-extension vortizhe.simple-ruby-erb
+
+# to update, run: code --list-extensions | xargs -L 1 echo code --install-extension
