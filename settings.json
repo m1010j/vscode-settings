@@ -40,5 +40,8 @@
     "ruby-lint": true
   },
   "ruby.lintDebounceTime": 500,
-  "ruby.codeCompletion": "rcodetools"
+  "ruby.codeCompletion": "rcodetools",
+  "emmet.includeLanguages": {
+    "erb": "html"
+  }
 }
