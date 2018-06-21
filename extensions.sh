@@ -18,6 +18,7 @@ code --install-extension ms-mssql.mssql
 code --install-extension ms-vscode.atom-keybindings
 code --install-extension msjsdiag.debugger-for-chrome
 code --install-extension rebornix.Ruby
+code --install-extension RoscoP.ActiveFileInStatusBar
 code --install-extension sdras.night-owl
 code --install-extension vincaslt.highlight-matching-tag
 code --install-extension vortizhe.simple-ruby-erb
