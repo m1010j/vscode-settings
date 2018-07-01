@@ -20,6 +20,7 @@ code --install-extension msjsdiag.debugger-for-chrome
 code --install-extension rebornix.Ruby
 code --install-extension RoscoP.ActiveFileInStatusBar
 code --install-extension sdras.night-owl
+code --install-extension toasty-technologies.octave
 code --install-extension vincaslt.highlight-matching-tag
 code --install-extension vortizhe.simple-ruby-erb
 code --install-extension wayou.vscode-todo-highlight
