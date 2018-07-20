@@ -17,6 +17,7 @@ code --install-extension mohsen1.prettify-json
 code --install-extension ms-mssql.mssql
 code --install-extension ms-vscode.atom-keybindings
 code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension PKief.material-icon-theme
 code --install-extension rebornix.Ruby
 code --install-extension RoscoP.ActiveFileInStatusBar
 code --install-extension sdras.night-owl
