@@ -1,13 +1,13 @@
 #!/bin/bash
 
 code --install-extension CraigMaslowski.erb
-code --install-extension DavidAnson.vscode-markdownlint
 code --install-extension TimonVS.ReactSnippetsStandard
 code --install-extension ZneuRay.erb-vscode-snippets
 code --install-extension abusaidm.html-snippets
 code --install-extension akamud.vscode-theme-onedark
 code --install-extension castwide.solargraph
 code --install-extension codepunkt.vscode-javascript-snippets
+code --install-extension DavidAnson.vscode-markdownlint
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension doublefint.pgsql
 code --install-extension dzannotti.vscode-babel-coloring
@@ -21,6 +21,7 @@ code --install-extension PKief.material-icon-theme
 code --install-extension rebornix.Ruby
 code --install-extension RoscoP.ActiveFileInStatusBar
 code --install-extension sdras.night-owl
+code --install-extension sleistner.vscode-fileutils
 code --install-extension toasty-technologies.octave
 code --install-extension vincaslt.highlight-matching-tag
 code --install-extension vortizhe.simple-ruby-erb
