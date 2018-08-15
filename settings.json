@@ -1,4 +1,5 @@
 {
+  "breadcrumbs.enabled": true,
   "atomKeymap.promptV3Features": true,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.formatOnPaste": false,
@@ -39,5 +40,8 @@
   "ruby.codeCompletion": "rcodetools",
   "emmet.includeLanguages": {
     "erb": "html"
-  }
+  },
+  "workbench.colorTheme": "Night Owl No Italics",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false
 }
