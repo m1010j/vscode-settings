@@ -43,5 +43,9 @@
   },
   "workbench.colorTheme": "Night Owl No Italics",
   "workbench.iconTheme": "material-icon-theme",
-  "explorer.confirmDelete": false
+  "explorer.confirmDelete": false,
+  "[python]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  }
 }
