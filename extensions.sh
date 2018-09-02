@@ -18,6 +18,7 @@ code --install-extension ms-mssql.mssql
 code --install-extension ms-python.python
 code --install-extension ms-vscode.atom-keybindings
 code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension octref.vetur
 code --install-extension PKief.material-icon-theme
 code --install-extension rebornix.ruby
 code --install-extension RoscoP.ActiveFileInStatusBar
