@@ -30,5 +30,7 @@ code --install-extension toasty-technologies.octave
 code --install-extension vincaslt.highlight-matching-tag
 code --install-extension vortizhe.simple-ruby-erb
 code --install-extension wayou.vscode-todo-highlight
+code --install-extension wix.vscode-import-cost
+
 
 # to update, run: code --list-extensions | xargs -L 1 echo code --install-extension
