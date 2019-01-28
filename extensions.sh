@@ -5,6 +5,7 @@ code --install-extension TimonVS.ReactSnippetsStandard
 code --install-extension ZneuRay.erb-vscode-snippets
 code --install-extension abusaidm.html-snippets
 code --install-extension akamud.vscode-theme-onedark
+code --install-extension bibhasdn.django-html
 code --install-extension castwide.solargraph
 code --install-extension codepunkt.vscode-javascript-snippets
 code --install-extension DavidAnson.vscode-markdownlint
