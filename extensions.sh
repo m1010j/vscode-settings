@@ -26,7 +26,6 @@ code --install-extension rebornix.ruby
 code --install-extension RoscoP.ActiveFileInStatusBar
 code --install-extension sdras.night-owl
 code --install-extension sleistner.vscode-fileutils
-code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension toasty-technologies.octave
 code --install-extension vincaslt.highlight-matching-tag
 code --install-extension vortizhe.simple-ruby-erb
