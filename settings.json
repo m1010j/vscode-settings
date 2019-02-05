@@ -41,7 +41,8 @@
   "ruby.lintDebounceTime": 500,
   "ruby.codeCompletion": "rcodetools",
   "emmet.includeLanguages": {
-    "erb": "html"
+    "erb": "html",
+    "jsx": "html"
   },
   "workbench.colorTheme": "Night Owl No Italics",
   "workbench.iconTheme": "material-icon-theme",
