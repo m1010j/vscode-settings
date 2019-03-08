@@ -36,6 +36,7 @@ code --install-extension TimonVS.ReactSnippetsStandard
 code --install-extension toasty-technologies.octave
 code --install-extension vincaslt.highlight-matching-tag
 code --install-extension vortizhe.simple-ruby-erb
+code --install-extension waderyan.gitblame
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension wix.vscode-import-cost
 code --install-extension ZneuRay.erb-vscode-snippets
