@@ -51,5 +51,6 @@
     "editor.insertSpaces": true,
     "editor.tabSize": 4
   },
-  "python.formatting.provider": "autopep8"
+  "python.formatting.provider": "autopep8",
+  "python.pythonPath": "/usr/local/bin/python3"
 }
