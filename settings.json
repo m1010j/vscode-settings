@@ -8,6 +8,7 @@
   "editor.insertSpaces": true,
   "editor.detectIndentation": false,
   "workbench.startupEditor": "newUntitledFile",
+  "workbench.editor.enablePreview": false,
   "explorer.confirmDragAndDrop": false,
   "editor.minimap.enabled": false,
   "editor.rulers": [80],
