@@ -1,7 +1,5 @@
 #!/bin/bash
 
-code --install-extension TimonVS.ReactSnippetsStandard
-code --install-extension ZneuRay.erb-vscode-snippets
 code --install-extension abusaidm.html-snippets
 code --install-extension akamud.vscode-theme-onedark
 code --install-extension bibhasdn.django-html
@@ -36,6 +34,7 @@ code --install-extension TimonVS.ReactSnippetsStandard
 code --install-extension toasty-technologies.octave
 code --install-extension vincaslt.highlight-matching-tag
 code --install-extension vortizhe.simple-ruby-erb
+code --install-extension vscodevim.vim
 code --install-extension waderyan.gitblame
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension wix.vscode-import-cost
