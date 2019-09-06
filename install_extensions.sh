@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 code --install-extension abusaidm.html-snippets
 code --install-extension akamud.vscode-theme-onedark
 code --install-extension atlassian.atlascode
@@ -42,6 +43,3 @@ code --install-extension wayou.vscode-todo-highlight
 code --install-extension wix.vscode-import-cost
 code --install-extension xabikos.ReactSnippets
 code --install-extension ZneuRay.erb-vscode-snippets
-
-
-# to update, run: code --list-extensions | xargs -L 1 echo code --install-extension
