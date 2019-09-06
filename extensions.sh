@@ -2,6 +2,7 @@
 
 code --install-extension abusaidm.html-snippets
 code --install-extension akamud.vscode-theme-onedark
+code --install-extension atlassian.atlascode
 code --install-extension bibhasdn.django-html
 code --install-extension castwide.solargraph
 code --install-extension codepunkt.vscode-javascript-snippets
@@ -18,14 +19,15 @@ code --install-extension kumar-harsh.graphql-for-vscode
 code --install-extension lsadam0.ReactFlowSnippets
 code --install-extension mkaufman.HTMLHint
 code --install-extension mohsen1.prettify-json
+code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-mssql.mssql
 code --install-extension ms-python.python
 code --install-extension ms-vscode.atom-keybindings
 code --install-extension msjsdiag.debugger-for-chrome
 code --install-extension octref.vetur
-code --install-extension PeterJausovec.vscode-docker
 code --install-extension PKief.material-icon-theme
 code --install-extension rebornix.ruby
+code --install-extension redhat.vscode-yaml
 code --install-extension RoscoP.ActiveFileInStatusBar
 code --install-extension sdras.night-owl
 code --install-extension shinnn.stylelint
@@ -38,6 +40,7 @@ code --install-extension vscodevim.vim
 code --install-extension waderyan.gitblame
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension wix.vscode-import-cost
+code --install-extension xabikos.ReactSnippets
 code --install-extension ZneuRay.erb-vscode-snippets
 
 
