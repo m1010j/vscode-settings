@@ -1,6 +1,4 @@
 #!/bin/bash
-
-
 code --install-extension abusaidm.html-snippets
 code --install-extension akamud.vscode-theme-onedark
 code --install-extension atlassian.atlascode
