@@ -12,24 +12,19 @@
   "workbench.editor.enablePreview": false,
   "explorer.confirmDragAndDrop": false,
   "editor.minimap.enabled": false,
-  "editor.rulers": [80, 160],
+  "editor.rulers": [
+    120,
+  ],
   "editor.fontFamily": "FiraCode-Retina",
   "editor.fontLigatures": true,
-  "gitlens.advanced.messages": {
-    "suppressCommitHasNoPreviousCommitWarning": false,
-    "suppressCommitNotFoundWarning": false,
-    "suppressFileNotUnderSourceControlWarning": false,
-    "suppressGitVersionWarning": false,
-    "suppressLineUncommittedWarning": false,
-    "suppressNoRepositoryWarning": false,
-    "suppressResultsExplorerNotice": false,
-    "suppressShowKeyBindingsNotice": true
-  },
   "window.zoomLevel": 0,
   "ruby.lint": {
     "reek": true,
     "rubocop": {
-      "only": ["SpaceInsideBlockBraces", "LeadingCommentSpace"],
+      "only": [
+        "SpaceInsideBlockBraces",
+        "LeadingCommentSpace"
+      ],
       "lint": true,
       "rails": true
     },
@@ -53,17 +48,13 @@
     "editor.tabSize": 4,
     "editor.formatOnSave": false
   },
-  "[json]": {
-    "editor.formatOnSave": false
-  },
   "[markdown]": {
     "editor.formatOnSave": false
   },
   "python.formatting.provider": "autopep8",
   "python.pythonPath": "/usr/local/bin/python3",
-  "typescript.validate.enable": false,
-  "javascript.validate.enable": false,
-  "flow.pathToFlow": "/Users/matthiasjenny/LoanStreet/loanstreet-next/frontend/node_modules/.bin/flow",
+  "typescript.validate.enable": true,
+  "javascript.validate.enable": true,
   "workbench.colorTheme": "Night Owl (No Italics)",
   "atlascode.jira.workingSite": {
     "baseUrlSuffix": "atlassian.net"
@@ -80,5 +71,13 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "workbench.editor.showTabs": true
+  "workbench.editor.showTabs": true,
+  "yaml.schemas": {
+    "file:///Users/matthiasjenny1/.vscode/extensions/atlassian.atlascode-1.4.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "atlascode.jira.workingProject": {
+    "id": "10000",
+    "name": "Consumer",
+    "key": "FE"
+  }
 }
