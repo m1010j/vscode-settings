@@ -37,6 +37,7 @@
   },
   "ruby.lintDebounceTime": 500,
   "ruby.codeCompletion": "rcodetools",
+  "emmet.triggerExpansionOnTab": true,
   "emmet.includeLanguages": {
     "erb": "html",
     "jsx": "html"
