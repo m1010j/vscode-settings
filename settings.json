@@ -57,9 +57,6 @@
   "typescript.validate.enable": true,
   "javascript.validate.enable": true,
   "workbench.colorTheme": "Night Owl (No Italics)",
-  "atlascode.jira.workingSite": {
-    "baseUrlSuffix": "atlassian.net"
-  },
   "workbench.colorCustomizations": {
     "statusBar.background": "#8FBCBB",
     "statusBar.noFolderBackground": "#8FBCBB",
@@ -72,13 +69,5 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "workbench.editor.showTabs": true,
-  "yaml.schemas": {
-    "file:///Users/matthiasjenny1/.vscode/extensions/atlassian.atlascode-1.4.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
-  },
-  "atlascode.jira.workingProject": {
-    "id": "10000",
-    "name": "Consumer",
-    "key": "FE"
-  }
+  "workbench.editor.showTabs": true
 }

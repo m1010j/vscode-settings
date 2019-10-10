@@ -1,7 +1,6 @@
 #!/bin/bash
 code --install-extension abusaidm.html-snippets
 code --install-extension akamud.vscode-theme-onedark
-code --install-extension atlassian.atlascode
 code --install-extension bibhasdn.django-html
 code --install-extension castwide.solargraph
 code --install-extension codepunkt.vscode-javascript-snippets
@@ -34,6 +33,7 @@ code --install-extension shinnn.stylelint
 code --install-extension sleistner.vscode-fileutils
 code --install-extension TimonVS.ReactSnippetsStandard
 code --install-extension toasty-technologies.octave
+code --install-extension Tyriar.sort-lines
 code --install-extension vincaslt.highlight-matching-tag
 code --install-extension vortizhe.simple-ruby-erb
 code --install-extension vscodevim.vim
